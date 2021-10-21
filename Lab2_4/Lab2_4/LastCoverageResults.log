@@ -1,0 +1,21 @@
+[2021-03-17 09:59:16] [info] Start Program:
+Path:"E:\\Facultate\\OOP\\Laboratoare\\Lab2_4\\Debug\\Lab2_4.exe"
+Arguments:
+Working directory: "E:\\Facultate\\OOP\\Laboratoare\\Lab2_4\\Lab2_4\\"
+Modules: Selected: E:\Facultate\OOP\Laboratoare\Lab2_4\Debug\Lab2_4.exe Excluded: 
+Sources: Selected: E:\Facultate\OOP\Laboratoare\Lab2_4\Lab2_4 Excluded: 
+Log Level: Normal
+Cover Children: 0
+Aggregate by file: 1
+Continue after C++ exception: 0
+Optimized build support: 0
+Export: binary C:\Users\STF-PC\AppData\Local\Temp\xagrv0ab.3xx 
+Input coverage: 
+Unified diff: 
+Excluded line regular expressions: 
+Substitute pdb source paths: 
+
+[2021-03-17 09:59:16] [info] Module: E:\Facultate\OOP\Laboratoare\Lab2_4\Debug\Lab2_4.exe is selected because it matches selected pattern: E:\Facultate\OOP\Laboratoare\Lab2_4\Debug\Lab2_4.exe
+[2021-03-17 09:59:16] [info] ----------------------------------------------------
+[2021-03-17 09:59:16] [info] Coverage binary generated in file: C:\Users\STF-PC\AppData\Local\Temp\xagrv0ab.3xx
+[2021-03-17 09:59:16] [info] ----------------------------------------------------
